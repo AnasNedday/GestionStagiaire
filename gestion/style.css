@@ -1,0 +1,59 @@
+
+		
+		table
+{
+    border-collapse: collapse;
+	margin-left:282px;
+	width:900px;
+	
+}
+td, th /* Mettre une bordure sur les td ET les th */
+{
+    border: 3px solid black;
+	margin:200px;
+	text-align: left;
+    padding: 5px;
+	
+	}
+
+th {
+    background-color:gray;
+    color: white;
+}	
+h4
+{
+Font-Weight: Bold;
+Font-Size: Large;
+Font-Family: Cursive;
+margin-left:250px;
+
+
+
+}
+
+
+.delete{
+    color: red;
+	cursor: pointer;
+}
+.valider{
+    color: green;
+	cursor: pointer;
+}
+.update{
+    color: blue;
+	cursor: pointer;
+}
+.annuler{
+    color: orange;
+	cursor: pointer;
+}
+
+.fiche{
+    color: blue;
+	cursor: pointer;
+}
+.approuver{
+    color: orange;
+	cursor: pointer;
+}
